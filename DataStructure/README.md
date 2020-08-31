@@ -1,9 +1,19 @@
-# ComputerSturcture
- 컴퓨터구조 공부
+# Data Sturcture
+ 자료구조
 
 
 
-버전변경
-=======
-# DataStructure
+## 연결리스트
+
+
+
+## 스택
+
+
+
+## 큐
+
+
+
+## 힙
 
